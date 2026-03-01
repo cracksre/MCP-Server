@@ -1,0 +1,12 @@
+{
+	"servers": {
+		"my-math-mcp-server": {
+			"type": "stdio",
+			"command": "/Users/sandeephota/Documents/AIproject/MCP-Python-math/.venv/bin/python3",
+			"args": [
+				"/Users/sandeephota/Documents/AIproject/MCP-Python-math/math-server.py"
+			]
+		}
+	},
+	"inputs": []
+}
