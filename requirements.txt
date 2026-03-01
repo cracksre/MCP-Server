@@ -1,0 +1,1 @@
+mcp[cli] # Install the latest version of mcp with the command line interface (CLI) support.#
